@@ -1,0 +1,6 @@
+broadcaster-interval: 40 # Seconds
+prefix: "[ Broadcaster ]"
+messages:
+  - "Message 1"
+  - "Message 2"
+  - "Message 3"

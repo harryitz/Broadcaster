@@ -1,0 +1,5 @@
+name: Broadcaster
+version: "1.0"
+api: ["1.0.0"]
+main: me.blockmagicdev.broadcaster.MainClass
+author: BlockMagicDev
